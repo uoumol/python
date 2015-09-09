@@ -1,2 +1,3 @@
 # python
-some tests accroding to the book <learn python the hard way>
+some tests accroding to the book 
+learn python the hard way
